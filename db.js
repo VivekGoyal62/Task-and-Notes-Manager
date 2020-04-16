@@ -64,5 +64,5 @@ const Notes = db.define('notes',{
 // Notes.belongsTo(Tasks)
 
 module.exports = {
-    db, Tasks, Notes
+    db, Tasks,Notes
 }
